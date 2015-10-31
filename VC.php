@@ -1,13 +1,12 @@
 <?php
 /**
  * VC extension - The MediaWiki version compatiblity (VC) for iSC Inc. wikis
+ *  
+ * For more info see https://extensions.inc.isc/wiki/VC.
  * 
  * @author Suriyaa Kudo <SuriyaaKudoIsc@users.noreply.github.com> (https://bit.ly/Suriyaa)
  * @copyright Copyright © 2015-present iSC Inc.
  * @license Apache v2.0 or later
- * 
- * For more info see https://extensions.inc.isc/wiki/VC.
- *
  * @file
  * @ingroup Extensions
  */
