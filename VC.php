@@ -2,7 +2,7 @@
 /**
  * VC extension - The MediaWiki version compatiblity (VC) for iSC Inc. wikis
  * 
- * @author Suriyaa Kudo <> ()
+ * @author Suriyaa Kudo <SuriyaaKudoIsc@users.noreply.github.com> (https://bit.ly/Suriyaa)
  * @copyright Copyright © 2015-present iSC Inc.
  * @license Apache v2.0 or later
  * 
