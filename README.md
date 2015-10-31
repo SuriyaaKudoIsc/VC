@@ -1,6 +1,6 @@
 # Version compatiblity (VC)
 
-  > The MediaWiki version compatiblity (VC) for iSC Inc. wikis.
+  > The MediaWiki version compatibility (VC) for iSC Inc. wikis.
 
 ## Method 1
 
