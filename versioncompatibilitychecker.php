@@ -1,6 +1,6 @@
 <?php
 /**
- * Version compatiblity (for iSC Inc. wikis)
+ * Version compatiblity checker (for iSC Inc. wikis)
  * 
  * @author Suriyaa Kudo <SuriyaaKudoIsc@users.noreply.github.com> (http://bit.ly/Suriyaa)
  * @author MediaWiki contributors (https://www.mediawiki.org/wiki/Thread:Project:Support_desk/Set_version_compatibility_for_extension)
