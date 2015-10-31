@@ -11,6 +11,9 @@ $wgExtensionCredits['vcclass'][] = array(
     'version'  => 1.0.0,
 );
 
+// Preparing classes for autoloading
+$wgAutoloadClasses['VC'] = __DIR__ . '/VC.body.php';
+
 // VC is a Beta Feature for MediaWiki!
 $wgAutoloadClasses['VCHooks'] = __DIR__ . '/VCHooks.php';
 $wgHooks['GetBetaFeaturePreferences'][] = 'VCHooks::getPreferences';
