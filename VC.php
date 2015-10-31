@@ -1,3 +1,4 @@
+<?php
 // VC.php
 
 // VC is a Beta Feature for MediaWiki!
@@ -6,3 +7,4 @@ $wgHooks['GetBetaFeaturePreferences'][] = 'VCHooks::getPreferences';
 
 // Include versioncompatibility.php file
 include 'versioncompatibility.php';
+?>
