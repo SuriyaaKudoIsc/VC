@@ -19,7 +19,7 @@ $wgExtensionCredits['other'][] = array(
 	),
 	'version'  => '1.0.0',
 	'url' => 'https://extensions.inc.isc/wiki/VC',
-	'descriptionmsg' => 'VC-desc',
+	'descriptionmsg' => 'The MediaWiki version compatibility (VC) checker extension for iSC Inc. wikis.',
 	'license-name' => 'Apache-2.0',
 );
 
