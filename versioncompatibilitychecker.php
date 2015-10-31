@@ -8,7 +8,7 @@
  */
  
 if ( version_compare( $GLOBALS['wgVersion'], '1.19', '<' ) ) {
-    echo 'myExt requires at least MediaWiki 1.19, you have ' . $GLOBALS['wgVersion'];
+    echo 'All iSC Inc. extensions requires at least the iSC Inc.-modified MediaWiki version 1.19. You have ' . $GLOBALS['wgVersion'];
     exit();
 }
  
