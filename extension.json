@@ -1,10 +1,17 @@
 {
 	"name": "VC",
-	"author": "Suriyaa Sundararuban",
-	"url": "https://extensions.inc.isc/wiki/VC",
-	"description": "The MediaWiki version compatibility (VC) checker extension for iSC Inc. wikis.",
 	"version": "1.0.0",
+	"author": [
+		"Suriyaa Sundararuban"
+	],
+	"url": "https://extensions.inc.isc/wiki/VC",
+	"descriptionmsg": "VC-desc",
+	"MessagesDirs": {
+		"VC": [
+			"i18n"
+		]
+	},
 	"license-name": "Apache-2.0",
-	"type": "validextensionclass",
+	"type": "other",
 	"manifest_version": 1
 }
