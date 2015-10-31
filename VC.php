@@ -1,12 +1,15 @@
 <?php
 /**
  * VC extension - The MediaWiki version compatiblity (VC) for iSC Inc. wikis
- *
+ * 
+ * @author Suriyaa Kudo <> ()
+ * @copyright Copyright © 2015-present iSC Inc.
+ * @license Apache v2.0 or later
+ * 
  * For more info see https://extensions.inc.isc/wiki/VC.
  *
  * @file
  * @ingroup Extensions
- * @author Suriyaa Kudo, 2015
  */
 
 $wgExtensionCredits['other'][] = array(
