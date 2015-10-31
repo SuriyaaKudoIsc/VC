@@ -1,8 +1,6 @@
 {
 	"@metadata": {
-		"authors": [
-			"Suriyaa Kudo"
-		]
+		"authors": []
 	},
 	"VC-desc": "The MediaWiki version compatibility (VC) for iSC Inc. wikis",
 	"VC-i18n-welcome": "Welcome to the localization file of the VC extension."
