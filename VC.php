@@ -25,6 +25,9 @@ $wgExtensionCredits['other'][] = array(
 
 /* Setup */
 
+// Include versioncompatibilitychecker.php file
+include 'versioncompatibilitychecker.php';
+
 // Register files
 $wgAutoloadClasses['VCHooks'] = __DIR__ . '/VC.hooks.php';
 $wgAutoloadClasses['SpecialVC'] = __DIR__ . '/specials/SpecialVC.php';
