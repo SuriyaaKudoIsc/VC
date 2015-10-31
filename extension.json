@@ -1,0 +1,12 @@
+// Registering features with MediaWiki
+
+{
+	"name": "VC",
+	"author": "Suriyaa Sundararuban",
+	"url": "https://extensions.inc.isc/wiki/VC",
+	"description": "The MediaWiki version compatiblity (VC) checker extension for iSC Inc. wikis.",
+	"version": "1.0.0",
+	"license-name": "Apache-2.0",
+	"type": "validextensionclass",
+	"manifest_version": 1
+}
