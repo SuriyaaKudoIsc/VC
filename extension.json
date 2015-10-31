@@ -5,7 +5,7 @@
 		"Suriyaa Sundararuban"
 	],
 	"url": "https://extensions.inc.isc/wiki/VC",
-	"descriptionmsg": "VC-desc",
+	"descriptionmsg": "The MediaWiki version compatibility (VC) checker extension for iSC Inc. wikis.",
 	"MessagesDirs": {
 		"VC": [
 			"i18n"
